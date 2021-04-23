@@ -1,4 +1,4 @@
-# Initial page
+# Getting Started
 
 ## Getting Super Powers
 

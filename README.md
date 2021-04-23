@@ -1,6 +1,6 @@
 # Getting Started
 
-## Getting Super Powers
+## Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 

@@ -1,4 +1,4 @@
-# Notes
+# The Chronicle
 
 ## Super Powers
 

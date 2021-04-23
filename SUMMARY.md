@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Chronicle](README.md)
+* [My Jottings](README.md)
 
 ## Databases
 

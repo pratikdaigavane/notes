@@ -1,4 +1,4 @@
-# The Chronicle
+# My Jottings
 
 ## Super Powers
 

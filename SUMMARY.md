@@ -8,3 +8,12 @@
 * [SQL Databases](databases/sql-databases/README.md)
   * [Postgres](databases/sql-databases/postgres.md)
 
+## Blockchain
+
+* [Untitled](blockchain/untitled.md)
+
+## Operating Systems
+
+* [Notes](operating-systems/notes.md)
+* [APIs and System Calls](operating-systems/apis.md)
+

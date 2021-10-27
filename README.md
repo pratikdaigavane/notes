@@ -6,5 +6,3 @@ description: This page contains a collection of all the blogs that I have read o
 
 {% embed url="https://zerodha.tech/blog/working-with-postgresql/" %}
 
-
-

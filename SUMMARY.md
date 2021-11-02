@@ -4,4 +4,5 @@
 
 ## Blockchain
 
-* [Blockchain 101](blockchain/blockchain-101.md)
+* [Blockchain 101](blockchain/blockchain-101/README.md)
+  * [Consensus Algorithms](blockchain/blockchain-101/consensus-algorithms.md)
